@@ -4042,7 +4042,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>Block Reference [148E9]:0</name>
+          <name>From Ruvu Darajani to Project Area</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -53474,3 +53474,4 @@
     </Folder>
   </Document>
 </kml>
+
