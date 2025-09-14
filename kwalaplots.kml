@@ -3542,7 +3542,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>Block Reference [148EE]:0</name>
+          <name>Proposed Road to Ruvu</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -4042,7 +4042,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>13Km From Ruvu Darajani to Project Area</name>
+          <name>13Km Road From Ruvu Darajani to Project Area</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -4286,7 +4286,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>18Km from Vigwaza Weightbridge to Project Area</name>
+          <name>18Km Road from Vigwaza Weightbridge to Project Area</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -53474,6 +53474,7 @@
     </Folder>
   </Document>
 </kml>
+
 
 
 
