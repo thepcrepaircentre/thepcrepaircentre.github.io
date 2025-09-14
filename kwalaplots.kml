@@ -4042,7 +4042,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>From Ruvu Darajani to Project Area</name>
+          <name>13Km From Ruvu Darajani to Project Area</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -4286,7 +4286,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>Block Reference [148E8]:0</name>
+          <name>18Km from Vigwaza Weightbridge to Project Area</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -4530,7 +4530,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>Block Reference [148E7]:0</name>
+          <name>To Chalinze</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -4774,7 +4774,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>Block Reference [148E6]:0</name>
+          <name>To Dar es Salaam</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -45153,7 +45153,7 @@
         <name>Line [BBB6]</name>
         <open>0</open>
         <Placemark>
-          <name>Line [BBB6]:0</name>
+          <name>Normal Plots</name>
           <Style>
             <LineStyle>
               <color>fffe41fe</color>
@@ -47211,7 +47211,7 @@
         <name>Line [BB54]</name>
         <open>0</open>
         <Placemark>
-          <name>Line [BB54]:0</name>
+          <name>Normal Plots</name>
           <Style>
             <LineStyle>
               <color>ff09fe46</color>
@@ -53474,4 +53474,5 @@
     </Folder>
   </Document>
 </kml>
+
 
