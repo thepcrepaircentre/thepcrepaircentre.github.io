@@ -4042,7 +4042,7 @@
           </MultiGeometry>
         </Placemark>
         <Placemark>
-          <name>13Km Road From Ruvu Darajani to Project Area</name>
+          <name>13Km Proposed Road From Ruvu Darajani to Project Area</name>
           <Style>
             <LineStyle>
               <color>ff0efefe</color>
@@ -6848,7 +6848,7 @@
           <Style>
             <LineStyle>
               <color>ff00f400</color>
-              <width>40</width>
+              <width>4</width>
             </LineStyle>
           </Style>
           <MultiGeometry>
@@ -53474,6 +53474,7 @@
     </Folder>
   </Document>
 </kml>
+
 
 
 
